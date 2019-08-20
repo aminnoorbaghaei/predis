@@ -1,2 +1,5 @@
 # predis
-redis for php
+
+
+
+Require class for use redis in php
